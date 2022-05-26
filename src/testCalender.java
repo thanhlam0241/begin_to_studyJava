@@ -15,7 +15,7 @@ public class testCalender {
         System.out.println("It's is: "+cal.get(Calendar.HOUR_OF_DAY));//theo thang 24 gio
         //Display the year
         System.out.println("This year is: "+cal.get(Calendar.YEAR));
-
+        int n=cal.get(Calendar.DAY_OF_WEEK);
         //Ngoai ra con nhieu thu nhu : WEEK_OF_YEAR,WEEK_OF_MONTH,...
 
         //Next,we study how to change the time of system by using set() method
