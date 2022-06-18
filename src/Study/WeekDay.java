@@ -1,3 +1,5 @@
+package Study;
+
 public enum WeekDay {
     MONDAY("Monday",2), TUESDAY("Tuesday",3),
     WEDNESDAY("Wednesday",4), THURSDAY("Thursday",5),

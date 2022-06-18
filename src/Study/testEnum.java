@@ -1,3 +1,5 @@
+package Study;
+
 public class testEnum {
     public static void main(String [] args){
         WeekDay monday = WeekDay.MONDAY;

@@ -1,3 +1,5 @@
+package Study;
+
 import java.util.*;
 import java.text.NumberFormat;
 import java.io.*;

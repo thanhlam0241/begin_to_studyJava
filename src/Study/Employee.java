@@ -1,3 +1,5 @@
+package Study;
+
 public class Employee {
     private String tenNhanVien;
     private double luongCoBan;

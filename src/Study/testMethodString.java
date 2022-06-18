@@ -1,3 +1,5 @@
+package Study;
+
 public class testMethodString {
     public static void main(String args[]){
         String s1="Raiden Shogun is the best character";
